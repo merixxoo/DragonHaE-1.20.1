@@ -11,6 +11,6 @@ public class DragonHaE implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-		LOGGER.info("Hello Fabric world!");
+		LOGGER.info("Initializing DragonHaE");
 	}
 }
